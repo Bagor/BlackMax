@@ -1,9 +1,10 @@
 # Some actions with BlackMax output are presented
 
+
+
+
 You can take actual version of BlackMax generator from
 https://blackmax.hepforge.org/downloads/
-
-For example:
 
 mkdir BlackMax
 cd BlackMax
